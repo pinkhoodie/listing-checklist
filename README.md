@@ -17,20 +17,16 @@
 {% tab title="Price Trackers" %}
 | Name | URL | Notes/Method |
 | :--- | :--- | :--- |
-| CoinGecko | [https://docs.google.com/forms/d/e/1FAIpQLScIlVCl2qIc9SMPxHZCuZAZkRCxCNZugjNmHZISswAeodlc0A/viewform](https://docs.google.com/forms/d/e/1FAIpQLScIlVCl2qIc9SMPxHZCuZAZkRCxCNZugjNmHZISswAeodlc0A/viewform) |  |
+| CoinGecko | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScIlVCl2qIc9SMPxHZCuZAZkRCxCNZugjNmHZISswAeodlc0A/viewform) |  |
 | CoinMarketCap |  |  |
 {% endtab %}
 
 {% tab title="Token Lists" %}
-|  |  |
-| :--- | :--- |
-|  |  |
+| Name | URL | Notes/Method |
+| :--- | :--- | :--- |
+|  |  |  |
 {% endtab %}
 {% endtabs %}
 
 
-
-|  |  |
-| :--- | :--- |
-|  |  |
 
