@@ -2,13 +2,11 @@
 
 ## Created a new token? Make sure to get it added and listed everywhere!
 
-
-
 {% tabs %}
 {% tab title="Wallets" %}
 | Name | Link | Notes/Method |
 | :--- | :--- | :--- |
-| Metamask |  | DM |
+| Metamask |  | N/A |
 | Rainbow |  | DM |
 | Dharma | [https://github.com/defi-wikis/defi-tokens-wiki](https://github.com/defi-wikis/defi-tokens-wiki) | GitHub |
 | Argent |  |  |
@@ -24,7 +22,10 @@
 {% tab title="Token Lists" %}
 | Name | URL | Notes/Method |
 | :--- | :--- | :--- |
-|  |  |  |
+| CoinGecko |  |  |
+| Uniswap |  |  |
+| Sushiswap |  |  |
+| Kleros |  |  |
 {% endtab %}
 {% endtabs %}
 
