@@ -1,3 +1,7 @@
+---
+description: Curated w ❤️by Yup and Forefront
+---
+
 # Token Listing Checklist
 
 ## Created a new token? Make sure to get it added and listed everywhere!
