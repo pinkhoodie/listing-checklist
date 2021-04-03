@@ -10,36 +10,7 @@ The Token Listing Checklist is meant to help individuals or communities that are
 
 ## Token Checklist
 
-Feel free to copy and paste this information 
-
-#### Wallets
-
-* [ ] **Metamask**
-  * asdf
-* [ ] **Rainbow**
-* [ ] **Dharma**
-* [ ] **Argent**
-
-#### Price Trackers
-
-* [ ] **Coingecko**
-  * asdf
-* [ ] **CoinMarketCap**
-  * asdf
-* [ ] **Blockfolio**
-  * 
-* [ ] **Delta**
-
-#### Token Lists
-
-* [ ] **CoinGecko**
-* [ ] **Uniswap**
-* [ ] **Sushiswap**
-* [ ] **Kleros**
-
-#### Social Tokens
-
-#### NFTs
+Feel free to copy and paste this information or export it from GitHub.
 
 {% tabs %}
 {% tab title="Wallets" %}
@@ -61,12 +32,110 @@ Feel free to copy and paste this information
 {% endtab %}
 
 {% tab title="Token Lists" %}
-| Name | URL | Notes/Method |
-| :--- | :--- | :--- |
-| CoinGecko |  |  |
-| Uniswap |  |  |
-| Sushiswap |  |  |
-| Kleros |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">URL</th>
+      <th style="text-align:left">Notes/Method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">CoinGecko</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Uniswap</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sushiswap</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kleros</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+{% endtab %}
+
+{% tab title="Social Tokens" %}
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">URL</th>
+      <th style="text-align:left">Notes/Method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Forefront</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+{% endtab %}
+
+{% tab title="NFTs" %}
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">URL</th>
+      <th style="text-align:left">Notes/Method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">CoinGecko</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Uniswap</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sushiswap</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kleros</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 {% endtabs %}
 
