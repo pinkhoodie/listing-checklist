@@ -1,10 +1,12 @@
 ---
-description: Curated w ❤️by Yup and Forefront
+description: >-
+  Created a new token? Make sure to get it added and listed everywhere! Curated
+  w ❤️by Yup and Forefront
 ---
 
 # Token Listing Checklist
 
-## Created a new token? Make sure to get it added and listed everywhere!
+## The Checklist
 
 {% tabs %}
 {% tab title="Wallets" %}
@@ -21,6 +23,8 @@ description: Curated w ❤️by Yup and Forefront
 | :--- | :--- | :--- |
 | CoinGecko | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScIlVCl2qIc9SMPxHZCuZAZkRCxCNZugjNmHZISswAeodlc0A/viewform) |  |
 | CoinMarketCap |  |  |
+| Blockfolio | [Canny](https://blockfolio.canny.io/) | 2-3 days usually |
+| Delta |  |  |
 {% endtab %}
 
 {% tab title="Token Lists" %}
