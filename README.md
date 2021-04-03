@@ -7,9 +7,9 @@
 | Name | Link | Notes/Method |
 | :--- | :--- | :--- |
 | Metamask |  | N/A |
-| Rainbow |  | DM |
+| [Rainbow](https://rainbow.me) |  | DM |
 | Dharma | [https://github.com/defi-wikis/defi-tokens-wiki](https://github.com/defi-wikis/defi-tokens-wiki) | GitHub |
-| Argent |  |  |
+| [Argent](https://argent.xyz) |  |  |
 {% endtab %}
 
 {% tab title="Price Trackers" %}
