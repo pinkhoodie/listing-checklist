@@ -17,6 +17,29 @@ Feel free to copy and paste this information
 * [ ] **Metamask**
   * asdf
 * [ ] **Rainbow**
+* [ ] **Dharma**
+* [ ] **Argent**
+
+#### Price Trackers
+
+* [ ] **Coingecko**
+  * asdf
+* [ ] **CoinMarketCap**
+  * asdf
+* [ ] **Blockfolio**
+  * 
+* [ ] **Delta**
+
+#### Token Lists
+
+* [ ] **CoinGecko**
+* [ ] **Uniswap**
+* [ ] **Sushiswap**
+* [ ] **Kleros**
+
+#### Social Tokens
+
+#### NFTs
 
 {% tabs %}
 {% tab title="Wallets" %}
