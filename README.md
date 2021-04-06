@@ -42,7 +42,6 @@ Feel free to copy and paste this information or export it from GitHub.
 {% tab title="Token Lists" %}
 | Name | URL | Notes/Method |
 | :--- | :--- | :--- |
-| CoinGecko | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScIlVCl2qIc9SMPxHZCuZAZkRCxCNZugjNmHZISswAeodlc0A/viewform) |  |
 | Uniswap | Coming Soon... |  |
 | Sushiswap | Coming Soon... |  |
 | Kleros | [TCR Token List](https://tokens.kleros.io/tokens) |  |
