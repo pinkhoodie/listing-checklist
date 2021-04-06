@@ -26,8 +26,8 @@ Feel free to copy and paste this information or export it from GitHub.
 | :--- | :--- | :--- |
 | [Metamask](https://metamask.io) | [https://github.com/MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) | Need to have good standing on etherscan |
 | [Rainbow](https://rainbow.me) | [GitHub Folder](https://github.com/rainbow-me/rainbow/tree/2b7be6322656895267b0f20b7fbe685c9a4e678c/ios/Rainbow/Images.xcassets/coinIcons) | DM team members |
-| Dharma | [https://github.com/defi-wikis/defi-tokens-wiki](https://github.com/defi-wikis/defi-tokens-wiki) | GitHub |
-| [Argent](https://argent.xyz) | ?? |  |
+| Dharma | [GitHub](https://github.com/defi-wikis/defi-tokens-wiki) | GitHub |
+| [Argent](https://argent.xyz) | Coming Soon? |  |
 {% endtab %}
 
 {% tab title="Price Trackers" %}
@@ -53,4 +53,8 @@ Feel free to copy and paste this information or export it from GitHub.
 | Forefront | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSccgFkpylFksCBFyStZ_twYReqZ_0a7PpK5aITKfV3kOrxjfw/viewform) |  |
 {% endtab %}
 {% endtabs %}
+
+
+
+Who did we forget? [Request to add here!](https://github.com/pinkhoodie/listing-checklist/tree/master)
 
