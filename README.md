@@ -12,9 +12,9 @@ The Token Listing Checklist is meant to help individuals or communities that are
 
 Here's some information you'd like to have collected before you attempt to list your token: 
 
-1. Eth address of ERC-20 contract of token
+1. Eth address of ERC-20 contract of token. [Example](https://etherscan.io/token/0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd)
 2. Token ticker symbol \(ex: $DAI, $FF, $WHALE, $YUP...\)
-3. PNG and SVG files of your logo
+3. PNG and SVG files of your logo \(e.g. 256x256\)
 
 ## Token Checklist
 
