@@ -42,9 +42,9 @@ Feel free to copy and paste this information or export it from GitHub.
 {% tab title="Token Lists" %}
 | Name | URL | Notes/Method |
 | :--- | :--- | :--- |
-| Uniswap | Coming Soon... |  |
-| Sushiswap | Coming Soon... |  |
-| Kleros | [TCR Token List](https://tokens.kleros.io/tokens) |  |
+| [Uniswap](https://uniswap.org) | [GitHub](https://github.com/Uniswap/default-token-list) | read checklist! |
+| [Sushiswap](https://sushi.com) | [GitHub](https://github.com/sushiswap/default-token-list#readme) | read checklist! |
+| [Kleros](https://kleros.io) | [TCR Token List](https://tokens.kleros.io/tokens) |  |
 {% endtab %}
 
 {% tab title="Social Tokens" %}
