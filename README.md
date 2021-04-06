@@ -50,11 +50,9 @@ Feel free to copy and paste this information or export it from GitHub.
 {% tab title="Social Tokens" %}
 | Name | URL | Notes/Method |
 | :--- | :--- | :--- |
-| Forefront | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSccgFkpylFksCBFyStZ_twYReqZ_0a7PpK5aITKfV3kOrxjfw/viewform) |  |
+| [Forefront](https://forefront.market) | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSccgFkpylFksCBFyStZ_twYReqZ_0a7PpK5aITKfV3kOrxjfw/viewform) |  |
 {% endtab %}
 {% endtabs %}
-
-
 
 Who did we forget? [Request to add here!](https://github.com/pinkhoodie/listing-checklist/tree/master)
 
