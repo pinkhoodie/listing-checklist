@@ -24,7 +24,7 @@ Feel free to copy and paste this information or export it from GitHub.
 | Name | Link | Notes/Method |
 | :--- | :--- | :--- |
 | Metamask | ?? | N/A |
-| [Rainbow](https://rainbow.me) | ?? | DM |
+| [Rainbow](https://rainbow.me) | [GitHub Folder](https://github.com/rainbow-me/rainbow/tree/2b7be6322656895267b0f20b7fbe685c9a4e678c/ios/Rainbow/Images.xcassets/coinIcons) | DM team members |
 | Dharma | [https://github.com/defi-wikis/defi-tokens-wiki](https://github.com/defi-wikis/defi-tokens-wiki) | GitHub |
 | [Argent](https://argent.xyz) | ?? |  |
 {% endtab %}
