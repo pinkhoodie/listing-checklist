@@ -6,7 +6,7 @@ description: >-
 
 # Token Listing Checklist
 
-The Token Listing Checklist is meant to help individuals or communities that are launching new tokens get their tokens listed on important marketplaces and platforms. Feel free to [contribute via GitHub here](https://github.com/pinkhoodie/listing-checklist/tree/master). 
+The Token Listing Checklist is meant to help creators or communities that are launching new tokens get their tokens listed on important marketplaces and platforms. Feel free to [contribute via GitHub here](https://github.com/pinkhoodie/listing-checklist/tree/master). 
 
 ## Before listing your token
 
