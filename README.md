@@ -1,7 +1,7 @@
 ---
 description: >-
   Created a new token? Make sure to get it added and listed everywhere! Curated
-  w ❤️by Yup and Forefront
+  w ❤️ by Yup and Forefront
 ---
 
 # Token Listing Checklist
