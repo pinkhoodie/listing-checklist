@@ -28,7 +28,7 @@ Feel free to copy and paste this information or export it from GitHub.
 | [Rainbow](https://rainbow.me)   | [GitHub Folder](https://github.com/rainbow-me/rainbow/tree/2b7be6322656895267b0f20b7fbe685c9a4e678c/ios/Rainbow/Images.xcassets/coinIcons) | DM team members                         |
 | Dharma                          | [GitHub](https://github.com/defi-wikis/defi-tokens-wiki)                                                                                   | GitHub                                  |
 | [Argent](https://argent.xyz)    | Coming Soon?                                                                                                                               |                                         |
-| Trust Wallet                    | [GitHub](https://github.com/trustwallet/assets)                                                                                            | Need 2.5k token holders                 |
+| Trust Wallet                    | [GitHub](https://github.com/trustwallet/assets)                                                                                            | Need 10k token holders and 15k transactions                 |
 {% endtab %}
 
 {% tab title="Price Trackers" %}
